@@ -1,0 +1,2 @@
+# KataCodeComponentStart02
+KataCodeComponentStart02
