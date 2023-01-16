@@ -2,7 +2,7 @@
 
 [Tutorial Microsoft](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript)
 
-[Ka Table]([https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript](https://ka-table.com/))
+[Ka Table](https://ka-table.com/)
 
 
 # Lista de Comandos
