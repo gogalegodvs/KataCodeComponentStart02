@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+    <control namespace="GalegoComponentInput"
+       constructor="GridGalego"
+       version="1.1.5"
+       display-name-key="GridGalego_Display_V1.1.5"
+       description-key="GridGalego_Display_V1.1.5"
+       control-type="standard">
+      <property name="dataSetInputJson"
+         display-name-key="dataSetInputJson_Display"
+         description-key="dataSetInputJson_Description"
+         of-type="Multiple"
+         usage="input"
+         required="true" />
+         <property name="dataSetOutputJson"
+         display-name-key="dataSetOutputJson_Display"
+         description-key="dataSetOutputJson_Description"
+         of-type="Multiple"
+         usage="output" />
+       <resources>
+          <code path="index.ts"
+             order="1" />
+          <css path="css/Grid.css"
+             order="1" />
+       </resources>
+    </control>
+</manifest>
